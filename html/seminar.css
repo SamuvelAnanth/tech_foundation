@@ -1,0 +1,45 @@
+.div1{
+    width:1000px;
+    height:1500px;
+    background-color:rgb(62, 214, 219);
+}
+.div2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: sticky;    /* Stick Something in place where we want */
+    top: 20px;            /* It is only based upon the Value from the Top*/
+}
+.div3{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: relative;         /* It's Working upto with the Previous DIV */
+    top: 80px;
+    right: 70px;
+    width: 400px;
+    height: 200px;
+}
+.div4{
+    width: 100px;
+    height: 120px;
+    background-color: blue;
+    position: fixed;    /* This is Fixed */
+}
+.div5{
+    width: 100px;
+    height: 100px;
+    background-color: #a52a2a;
+    position: absolute;     /* It's working independent and working into out of DIV */
+    top: 10px;              /*top-right    left-bottom*/
+    right: 90px;
+    width: 200px;
+    height: 100px;
+}
+.div6{
+    width: 150px;
+    height: 100px;
+    background-color: indigo;
+    position: static;    /* Default */
+    
+}

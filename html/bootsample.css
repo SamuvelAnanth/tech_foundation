@@ -1,0 +1,31 @@
+.bookicon{
+    font-size: 35px;
+}
+.secdiv{
+    background-color: black;
+}
+.card{
+    background-color: black;
+}
+.thirddiv{
+    background-image: url("https://c8.alamy.com/comp/2KFADKG/the-boat-house-on-loch-achilty-on-a-cloudy-autumn-morning-2KFADKG.jpg");
+}
+input{
+    height: 40px;
+    width: 700px;
+}
+ul{
+    text-align: left !important;
+}
+li{
+    text-align: left !important;
+}
+i{
+    align-items: left;
+}
+.addr{
+    margin-top: -17px;
+}
+.envo{
+    align-items: left!important;
+}

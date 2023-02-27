@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/hello-words-pattern-different-languages_23-2147868518.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.samu{
+    margin-top: 20px;
+}
+.samu{
+    font-size: 25px;
+    border-radius: 15px 0px 15px 15px;
+}
+.sarun{
+    font-size: 25px;
+    border-radius: 0px 15px 15px 15px;
+}

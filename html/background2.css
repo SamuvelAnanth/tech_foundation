@@ -1,0 +1,95 @@
+body{
+    background-image: linear-gradient(to right,rgb(78, 188, 221),rgb(125, 219, 70));
+}
+div{
+    background-color: white;
+    height: 570px;
+    width: 440px;
+    margin:0 auto;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.login{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 36px;
+    margin-top: 30px;
+}
+.user{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    margin-left: 50px;
+}
+.iuser{
+    margin-left: 50px;
+}
+.user1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    margin-left: 15px;
+    border: none;
+    margin-top: 20px;
+    font-size: 20px;
+    outline: none;
+}
+hr{
+    color: gray;
+    width:350px;
+}
+i{
+    font-size: 30px;
+    color: gray;
+}
+.pass{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    margin-left: 50px;
+}
+.user2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    margin-left: 20px;
+    border: none;
+    margin-top: 20px;
+    font-size: 20px;
+    outline: none;
+}
+.lock{
+    margin-left: 50px;
+    height: 60px;
+}
+.forpass{
+    color: gray;
+    font-size: 20px;
+    margin-left: 270px;
+}
+.button1{
+    background-image: linear-gradient(to right,rgb(78, 188, 221),rgb(125, 219, 70));
+    color: white;
+    border: none;
+    font-size: 30px;
+    height: 45px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 85px;
+    margin-top: 20px;
+}
+.signup{
+    font-size: 18px;
+    color: gray;
+    margin-left: 145px;
+}
+.fb{
+    margin-left: 150px;
+    color:#3b5998;
+}
+.tw{
+    margin-left: 10px;
+    color:#00acee;
+}
+.gg{
+    margin-left: 10px;
+    color: #db4a39;
+}

@@ -1,0 +1,22 @@
+.heading{
+    color: rgb(152, 123, 48);
+}
+#para{
+    text-align: center;
+}
+.para{
+    text-align-last: left;
+    text-indent: 200px;
+    text-align: justify;
+    line-height: 50px;
+}
+a{
+    text-decoration: overline;
+}
+h2{
+    text-transform: uppercase;
+    text-shadow: -3px -3px 15px black;
+}
+h3{
+    direction: rtl;
+}

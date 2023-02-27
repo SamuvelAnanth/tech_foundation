@@ -1,0 +1,32 @@
+*{
+    background-color: aquamarine;
+}
+.body{
+    font-size: 40px;
+    width:20vh;
+    border: 5;
+    margin: auto;
+}
+.body1{
+    background-color: rgb(58, 243, 181);
+    width: 314px;
+    height: 257px;
+}
+#lion{
+    background-color: rgb(224, 224, 72);
+    width: 314px;
+    height: 257px;
+}
+#fox{
+    background-color: rgb(138, 138, 59);
+    width: 314px;
+    height: 257px;
+}
+#giraffe{
+    background-color: yellowgreen;
+    width: 314px;
+    height: 257px;
+}
+span{
+    color: blue;
+}

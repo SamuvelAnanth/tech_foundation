@@ -1,0 +1,123 @@
+body{
+    background-image: url(resta.jpeg);
+    background-size: cover;
+}
+.logo{
+    margin-left: 260px;
+    margin-top: -10px;
+}
+ul{
+    display: flex;
+    float: right;
+    list-style-type: none;
+    margin:0 auto;
+    margin-top: 30px;
+    position: absolute;
+    left: 650px;
+    top: 5px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    background: transparent;
+    box-shadow:5px 5px 55px 3px black;
+    border-radius: 30px;
+}
+li{
+    padding: 20px;
+}
+.main{
+    background: transparent;
+    width: 600px;
+    height: 475px;
+    box-shadow: 2px 3px 55px 3px black;
+    margin-left: 30px;
+    border-radius: 30px;
+}
+.login{
+    height: 35px;
+    width: 90px;
+    font-size: 28px;
+    border-radius: 30px;
+    margin:0 auto;
+    padding: 25px;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.user{
+    height: 40px;
+    width: 130px;
+    font-size: 30px;
+    margin-left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 30px;
+}
+#name{
+    box-shadow: -2px -3px 54px 6px black;
+    background: transparent;
+    margin-left: -20px;
+    height: 40px;
+    width: 360px;
+    font-size: 30px;
+    margin-left: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.pass{
+    height: 40px;
+    width: 130px;
+    font-size: 30px;
+    margin-left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 30px;
+}
+#word{
+    box-shadow: -2px -3px 54px 6px black;
+    background: transparent;
+    margin-left: -20px;
+    height: 40px;
+    width: 360px;
+    font-size: 30px;
+    margin-left: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+i{
+    margin-left: -40px;
+    font-size: 25px;
+    color: grey;
+}
+.mail{
+    height: 40px;
+    width: 130px;
+    font-size: 30px;
+    margin-left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 30px;
+}
+#ema{
+    box-shadow: -2px -3px 54px 6px black;
+    background: transparent;
+    margin-left: -20px;
+    height: 40px;
+    width: 360px;
+    font-size: 30px;
+    margin-left: 21px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.signup{
+    width: 180px;
+    height: 45px;
+    background: transparent;
+    box-shadow: 4px 3px 49px 5px black;
+    border-color: gray;
+    margin-left: 200px;
+    border-radius: 15px;
+    font-size: 25px;
+}
+input{
+    outline: none;
+}

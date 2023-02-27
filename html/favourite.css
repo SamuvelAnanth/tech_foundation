@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://images.pexels.com/photos/1350197/pexels-photo-1350197.jpeg?cs=srgb&dl=pexels-emiliano-arano-1350197.jpg&fm=jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+div{
+    border-radius: 10px;
+}
+.div1{
+    height: 150px;
+}
+.taj{
+    margin-top: -63px;
+    margin-left: 1000px;
+}
+.gol{
+    margin-top: -63px;
+    margin-left: 1000px;
+    margin-bottom: 13px;
+}
+.mys{
+    margin-top: -63px;
+    margin-left: 1000px;
+    margin-bottom: 13px;
+}

@@ -1,0 +1,15 @@
+@import url("importfile.css");
+h1{
+    color: #e1e7e1;
+    background-color: #110c0c;
+}
+h2{
+    font-style: italic;
+    font-size: 15;
+    background-color: brown;
+    color: black;
+}
+p{
+    color: #999999;
+    background-color: black ;
+}
